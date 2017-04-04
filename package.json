@@ -1,6 +1,6 @@
 {
   "name": "enfslist-promise",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "list items in the file system for fs module of node with promises",
   "license": "CC-BY-4.0",
   "author": {
