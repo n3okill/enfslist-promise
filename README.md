@@ -1,3 +1,10 @@
+[![Build Status](https://travis-ci.org/n3okill/enfslist-promise.svg)](https://travis-ci.org/n3okill/enfslist-promise)
+[![AppVeyor status](https://ci.appveyor.com/api/projects/status/wuuhwiugqno2y2r2?svg=true)](https://ci.appveyor.com/project/n3okill/enfslist-promise)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8def71ed4f3649429f3e30b88705b31d)](https://www.codacy.com/app/n3okill/enfslist-promise)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64PYTCDH5UNZ6)
+
+[![NPM](https://nodei.co/npm/enfslist-promise.png)](https://nodei.co/npm/enfslist-promise/)
+
 
 enfslist-promise
 ================
