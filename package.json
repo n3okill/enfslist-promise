@@ -1,0 +1,49 @@
+{
+  "name": "enfslist-promise",
+  "version": "0.0.1",
+  "description": "list items in the file system for fs module of node with promises",
+  "license": "CC-BY-4.0",
+  "author": {
+    "name": "Joao Parreira",
+    "email": "joaofrparreira@gmail.com"
+  },
+  "homepage": "https://github.com/n3okill/enfslist-promise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3okill/enfslist-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n3okill/enfslist-promise/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "enfslist": "^1.0"
+  },
+  "scripts": {
+    "test": "make test",
+    "appveyor": "node ./node_modules/mocha/bin/mocha --reporter spec --require should test/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-mocha": "^4.9.0",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "rimraf": "^2.6.1"
+  },
+  "keywords": [
+    "dereference",
+    "file",
+    "file system",
+    "fs",
+    "directory",
+    "list",
+    "symlink",
+    "recursive"
+  ]
+}
